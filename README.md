@@ -69,6 +69,7 @@ Mouse mats:
 Laptops:
 
 - Razer Blade Advanced 2018
+- Razer Blade Base 2020
 
 Headphones:
 
